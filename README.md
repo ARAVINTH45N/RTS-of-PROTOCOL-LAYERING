@@ -12,7 +12,8 @@ The most common protocol layering models are:
 
 # Protocol Layering Architecture
 
-![Protocol Layering](https://upload.wikimedia.org/wikipedia/commons/3/3b/Osi-model-jb.svg)
+<img width="1536" height="1024" alt="ChatGPT Image May 13, 2026, 06_15_55 PM" src="https://github.com/user-attachments/assets/41af7ea2-f401-4efb-9300-8161fa1aa1db" />
+
 
 ---
 
@@ -143,7 +144,8 @@ The OSI (Open Systems Interconnection) model contains 7 layers.
 
 The TCP/IP model is widely used in real-world Internet communication.
 
-![TCP IP Model](https://upload.wikimedia.org/wikipedia/commons/7/70/Internet_layering.svg)
+<img width="1536" height="1024" alt="ChatGPT Image May 13, 2026, 06_23_02 PM" src="https://github.com/user-attachments/assets/7df007e1-94ee-49d6-8fec-9f9f7de611b1" />
+
 
 | TCP/IP Layer | Corresponding OSI Layer |
 |---|---|
@@ -160,7 +162,8 @@ Encapsulation is the process of adding headers at each layer before transmission
 
 Decapsulation is the process of removing headers at the receiver side.
 
-![Encapsulation](https://upload.wikimedia.org/wikipedia/commons/5/52/Encapsulation.svg)
+<img width="1536" height="1024" alt="ChatGPT Image May 13, 2026, 06_27_58 PM" src="https://github.com/user-attachments/assets/c58fc536-8944-4ee7-8ef1-bea0a01ee3b6" />
+
 
 | Layer | Data Unit |
 |---|---|
@@ -193,7 +196,8 @@ Decapsulation is the process of removing headers at the receiver side.
 
 # OSI vs TCP/IP Comparison
 
-![OSI vs TCPIP](https://upload.wikimedia.org/wikipedia/commons/c/c4/Tcp-ip-and-osi-model-comparison.svg)
+<img width="1536" height="1024" alt="ChatGPT Image May 13, 2026, 06_30_13 PM" src="https://github.com/user-attachments/assets/4ed64454-04b9-498d-9eae-794be812f0e9" />
+
 
 | Feature | OSI Model | TCP/IP Model |
 |---|---|---|
