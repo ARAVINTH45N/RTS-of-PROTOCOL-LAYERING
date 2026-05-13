@@ -267,8 +267,53 @@ Standardization, modularity, and easier troubleshooting.
 
 ---
 
+
+
+
+
+# Simulation
+
+
+
+<img width="941" height="488" alt="image" src="https://github.com/user-attachments/assets/18046f25-5906-42b9-bda7-3998fbcc3c8f" />
+
+<img width="826" height="276" alt="image" src="https://github.com/user-attachments/assets/87314274-8b21-4bc1-8f97-7ccff971cf42" />
+
+
+<img width="856" height="256" alt="image" src="https://github.com/user-attachments/assets/78f5d963-d8a9-4aa8-9379-eaf47bc90674" />
+
+
+<img width="684" height="499" alt="image" src="https://github.com/user-attachments/assets/4b5687b4-44cb-43db-bde1-e68414be4540" />
+
+
+
+
+
+Now Packet Tracer shows:
+
+encapsulation
+IP packet
+MAC address
+protocol details
+layer-by-layer movement
+
+THIS is your protocol layering simulation.
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/a21c953e-45c9-475a-ae12-636b680c2296" />
+
+
+
+
+# VIEW LAYER DETAILS
+<img width="1436" height="664" alt="image" src="https://github.com/user-attachments/assets/57394f91-c370-4025-b76e-6ceeaba7a563" />
+
+
+
+
+
+
 # Author
 
 **Aravinth N**  
 B.E Electronics and Communication Engineering  
 Saveetha Engineering College
+
